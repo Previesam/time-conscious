@@ -1,0 +1,7 @@
+{
+  "name": "time-conscious",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
